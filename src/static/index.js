@@ -1,0 +1,1 @@
+export const ITEMS =["Home", "About", "Blog", "Service"]

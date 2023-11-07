@@ -1,0 +1,21 @@
+.card__main{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.card{
+    width: 300px;
+    height: 500px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+.card img{
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+    padding: 2px 3px 3px 1px;
+}
+.btn{
+    padding: 10px 35px;
+    margin: auto;
+}
